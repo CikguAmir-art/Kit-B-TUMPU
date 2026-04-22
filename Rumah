@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>TUMPU-STEP</title>
+</head>
+<body style="text-align:center; font-family:sans-serif;">
+  <h1>📘 TUMPU-STEP</h1>
+  <p>Sistem Menjawab Soalan Bertumpu</p>
+  <button onclick="location.href='nota.html'">📘 Nota</button>
+  <br><br>
+  <button onclick="location.href='game.html'">🎮 Permainan</button>
+</body>
+</html>
